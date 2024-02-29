@@ -31,7 +31,7 @@ const [videos, setVideos] = useState([]);
       <Box>
         <div style={{
           height:'200px',
-          background: 'linear-gradient(294deg, rgba(0,238,247,1) 0%, rgba(28,118,212,1) 35%, rgba(0,212,255,1) 100%)',
+          background: 'radial-gradient(circle, rgba(237,148,143,1) 0%, rgba(230,33,23,1) 100%)',
           zIndex:10,
         }} 
       
